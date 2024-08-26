@@ -3,7 +3,7 @@ prints it on screen in order to show what was entered */
 
 #include <stdio.h>
 
-int main()
+int main(void)
 {
    // Set up the variables that scanf will fill
    char firstInitial;
